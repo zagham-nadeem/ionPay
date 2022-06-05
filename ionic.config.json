@@ -1,0 +1,7 @@
+{
+  "name": "ionPay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

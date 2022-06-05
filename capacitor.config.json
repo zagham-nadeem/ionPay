@@ -1,0 +1,6 @@
+{
+	"appId": "com.learn2earn.ionPay",
+	"appName": "ionPay",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
